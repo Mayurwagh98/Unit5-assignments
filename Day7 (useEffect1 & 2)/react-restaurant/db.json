@@ -1,0 +1,94 @@
+{
+  "restaurents": [
+    {
+      "id": 1,
+      "name": "Thikha Restaurent",
+      "image": "https://images.unsplash.com/photo-1554478299-725a76d9badc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3BpY3klMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "paymentMethods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+      },
+      "votes": 300,
+      "review": 4.0,
+      "categories": [
+        "Pizza",
+        "Desserts",
+        "chinese"
+      ],
+      "itemCost": 600
+    },
+    {
+      "name": "Dream Restaurent",
+      "image": "https://images.unsplash.com/photo-1650142700236-f1889e0193b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE0fHhqUFI0aGxrQkdBfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "paymentMethods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "votes": "600",
+      "review": "4",
+      "categories": [
+        "Chinese",
+        " Italian",
+        " Indian"
+      ],
+      "itemCost": "200",
+      "id": 2
+    },
+    {
+      "name": "French Restaurent",
+      "image": "https://images.unsplash.com/photo-1650067033946-61db20de765b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE4fHhqUFI0aGxrQkdBfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "paymentMethods": {
+        "card": true,
+        "cash": true,
+        "upi": false
+      },
+      "votes": "500",
+      "review": "3.0.3",
+      "categories": [
+        "Japanese",
+        " Burger",
+        " Indian"
+      ],
+      "itemCost": "480",
+      "id": 3
+    },
+    {
+      "name": "Indian Thali",
+      "image": "https://images.unsplash.com/photo-1649704994413-cd563887a1fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIzfHhqUFI0aGxrQkdBfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "paymentMethods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "votes": "700",
+      "review": "4.5",
+      "categories": [
+        "Indian",
+        "Chinese",
+        "Italian "
+      ],
+      "itemCost": "360",
+      "id": 4
+    },
+    {
+      "name": "Starter Special",
+      "image": "https://images.unsplash.com/photo-1632108376801-744fae150e4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDMyfHhqUFI0aGxrQkdBfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "paymentMethods": {
+        "card": false,
+        "cash": false,
+        "upi": true
+      },
+      "votes": "790",
+      "review": "4.6",
+      "categories": [
+        "Pizza",
+        "Buger",
+        "French"
+      ],
+      "itemCost": "280",
+      "id": 5
+    }
+  ]
+}
